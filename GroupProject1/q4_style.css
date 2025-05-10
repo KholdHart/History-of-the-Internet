@@ -1,0 +1,60 @@
+section{
+
+    display: grid;
+
+    background-color: rgb(56, 84, 122);
+
+    color: aliceblue;
+
+    width: 100;
+
+}
+
+
+
+h1{
+
+    font-size: xx-large;
+
+    text-align: center;
+
+}
+
+
+
+.p4{
+
+    font-weight: bold;
+
+    margin-left: 8px;
+
+}
+
+
+
+.list{
+
+    display: grid;
+
+    border: 1px solid white;
+
+    border-radius: 20px;
+
+    background-color: rgb(48, 48, 205);
+
+    color: aliceblue;
+
+}
+
+
+
+button{
+
+    border-radius: 20px;
+
+    height: 40px;
+
+    background-color: rgb(207, 197, 215);
+
+}
+

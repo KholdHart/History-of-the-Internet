@@ -1,0 +1,61 @@
+section{
+
+    display: grid;
+
+    background-color: rgb(56, 84, 122);
+
+    color: aliceblue;
+
+    width: 100;
+
+}
+
+
+
+h1{
+
+    font-size: xx-large;
+
+    text-align: center;
+
+}
+
+
+
+.p1{
+
+    font-size: 16px;
+
+    font-weight: bolder;
+
+}
+
+dt{
+
+    padding-left: 30px;
+
+    font-size: 15px;
+
+    font-weight: bold;
+
+}
+
+
+
+dd{
+
+    padding-left: 30px;
+
+}
+
+
+
+button{
+
+    border-radius: 20px;
+
+    height: 40px;
+
+    background-color: rgb(207, 197, 215);
+
+}

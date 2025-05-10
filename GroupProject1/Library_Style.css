@@ -1,0 +1,97 @@
+body
+{
+    background-color: #2b4163;
+    font-family: "Open Sans", serif;
+
+}
+
+#Page1
+{
+display:grid;
+width: 100%;
+height: 100%;
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#main {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h1{
+    color: rgb(70, 122, 167);
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p{
+    color: aliceblue;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 2fr 8fr;
+    justify-content:flex-start; 
+}
+
+.logo-container img {
+    max-height: 50px;
+    margin-right: 10px;
+}
+
+.logo-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+#footer_stu_no{
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 300px;
+}
+ul{
+    
+    color: aliceblue;
+}
+
+main
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+footer
+{
+    text-align: center;
+}
+nav {
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 5px;
+}
+nav button {
+    display: block;
+    background-color: transparent;
+    cursor: pointer;
+    transition: font-size 0.3s, background-color 500ms border-color 500ms ;
+    border-radius: 25px;
+    border: 0;
+    height: 50px;
+
+    }
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+nav button:hover {
+    font-size: 16px;
+    filter: brightness(130%);
+    background-color: #2b4163;
+}
