@@ -1,17 +1,17 @@
 # WPR181-Project
 
 ## Overview
-The **WPR181-Project** is a [brief description about the purpose of the project, e.g., "web application," "console-based system," etc.]. This project demonstrates key concepts and practical implementations covered in the WPR181 course.
+The **WPR181-Project** is a web-based project developed as part of the WPR181 course. This project demonstrates the application of web development concepts, focusing on creating responsive and visually appealing user interfaces. It primarily uses HTML and CSS, making it an ideal example of front-end development best practices.
 
 ## 🚀 Features
-- **Feature 1:** [Brief description]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
+- **Responsive Design**: The project is optimized for various devices and screen sizes.
+- **Modern UI**: Implements a clean and aesthetically pleasing user interface.
+- **Interactive Elements**: Includes interactive components to enhance user experience.
 
 ## 🛠️ Technologies Used
-- **Language:** [Specify the primary programming language(s)]
-- **Frameworks/Libraries:** [List any frameworks or libraries used]
-- **Other Tools:** [Mention any additional tools, databases, or services integrated]
+- **Language**: HTML (71.1%), CSS (28.9%)
+- **Frameworks/Libraries**: None (pure HTML and CSS)
+- **Other Tools**: [List any additional tools if applicable, e.g., image editors or design tools]
 
 ## 📂 Project Structure
 ```
@@ -26,7 +26,8 @@ WPR181-Project/
 ## 🛠️ Getting Started
 
 ### Prerequisites
-- [List any prerequisites, e.g., specific software versions, tools, etc.]
+- A modern web browser (e.g., Chrome, Firefox, Edge)
+- A code editor (e.g., VS Code, Sublime Text) for making edits if needed
 
 ### Installation
 1. Clone the repository:
@@ -37,17 +38,14 @@ WPR181-Project/
    ```bash
    cd WPR181-Project
    ```
-3. Install dependencies (if applicable):
-   ```bash
-   [Command to install dependencies]
+3. Open the `index.html` file in your browser to view the project:
    ```
-4. Run the application:
-   ```bash
-   [Command to run the project]
+   Open the file directly or use a local server for live preview.
    ```
 
 ## 🤝 Contributing
 Contributions are always welcome! Here's how you can contribute:
+
 1. Fork the repository.
 2. Create a new branch:
    ```bash
