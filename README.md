@@ -1,4 +1,4 @@
-# WPR181-Project
+# 1st Year Group Project
 
 ## Overview
 The **WPR181-Project** is a web-based project developed as part of the WPR181 course. This project demonstrates the application of web development concepts, focusing on creating responsive and visually appealing user interfaces. It primarily uses HTML and CSS, making it an ideal example of front-end development best practices.
